@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "name": "Arafat Hossain",
+      "marks": {
+        "physics": 78,
+        "chemistry": 82,
+        "math": 91
+      }
+    },
+    {
+      "id": 2,
+      "name": "Maliha Akter",
+      "marks": {
+        "physics": 65,
+        "chemistry": 74,
+        "math": 80
+      }
+    },
+    {
+      "id": 3,
+      "name": "Shahriar Kabir",
+      "marks": {
+        "physics": 89,
+        "chemistry": 90,
+        "math": 94
+      }
+    },
+    {
+      "id": 4,
+      "name": "Tanjina Sultana",
+      "marks": {
+        "physics": 55,
+        "chemistry": 60,
+        "math": 58
+      }
+    },
+    {
+      "id": 5,
+      "name": "Hasibul Alam",
+      "marks": {
+        "physics": 72,
+        "chemistry": 68,
+        "math": 75
+      }
+    },
+    {
+      "id": 6,
+      "name": "Nafisa Rahman",
+      "marks": {
+        "physics": 95,
+        "chemistry": 92,
+        "math": 98
+      }
+    },
+    {
+      "id": 7,
+      "name": "Rakibul Islam",
+      "marks": {
+        "physics": 81,
+        "chemistry": 77,
+        "math": 84
+      }
+    },
+    {
+      "id": 8,
+      "name": "Samia Chowdhury",
+      "marks": {
+        "physics": 60,
+        "chemistry": 65,
+        "math": 70
+      }
+    },
+    {
+      "id": 9,
+      "name": "Fahim Ahmed",
+      "marks": {
+        "physics": 87,
+        "chemistry": 85,
+        "math": 90
+      }
+    },
+    {
+      "id": 10,
+      "name": "Nusrat Jahan",
+      "marks": {
+        "physics": 74,
+        "chemistry": 79,
+        "math": 83
+      }
+    }
+  ]
